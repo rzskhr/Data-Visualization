@@ -14,8 +14,8 @@
       <file leaf-file-name="basic_charts.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/basic_charts/basic_charts.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="531">
-              <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+            <state relative-caret-position="300">
+              <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -31,8 +31,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="2452" />
-    <option name="y" value="-54" />
+    <option name="x" value="1996" />
+    <option name="y" value="-14" />
     <option name="width" value="1507" />
     <option name="height" value="842" />
   </component>
@@ -92,7 +92,7 @@
     <configuration />
   </component>
   <component name="ToolWindowManager">
-    <frame x="2452" y="-54" width="1507" height="842" extended-state="0" />
+    <frame x="1996" y="-14" width="1507" height="842" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2532423" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -130,8 +130,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/basic_charts/basic_charts.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="531">
-          <caret line="38" column="42" lean-forward="true" selection-start-line="38" selection-start-column="42" selection-end-line="38" selection-end-column="42" />
+        <state relative-caret-position="300">
+          <caret line="20" column="0" lean-forward="true" selection-start-line="20" selection-start-column="0" selection-end-line="20" selection-end-column="0" />
           <folding />
         </state>
       </provider>
